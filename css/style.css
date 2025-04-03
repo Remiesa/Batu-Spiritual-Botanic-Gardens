@@ -4379,6 +4379,10 @@ input[type="button"].btn-block {
     font-size: 100%;
   }
 
+  a {
+    font-size: 100%;
+  }
+
   .grid-container {
     grid-template-columns: repeat(2, 1fr); /* 2 columns for smaller screens */
   }
