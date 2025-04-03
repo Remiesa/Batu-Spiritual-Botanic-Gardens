@@ -1,3 +1,7 @@
+import { injectSpeedInsights } from "@vercel/speed-insights";
+
+injectSpeedInsights();
+
 // toggle class active
 const navbarNav = document.querySelector(".navbar-nav");
 //Hamburger menu clicked
