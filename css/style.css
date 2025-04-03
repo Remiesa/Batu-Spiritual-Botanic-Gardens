@@ -9816,10 +9816,9 @@ h6,
 }
 
 .bg-pohon {
-  background: linear-gradient(rgba(0, 0, 0, 0.5)), url(../img/bg.jpg),
-    no-repeat center center;
+  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.5)),
+    url(../img/bg.jpg), no-repeat center center;
   background-size: cover;
-  /* background-attachment: fixed; */
 }
 
 .team-item {
